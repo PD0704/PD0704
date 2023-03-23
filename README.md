@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <div align = "center">
- <a align = "center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Prahelika+Dutta.;I+am+a+Unity+developer.;Love+to+experiment+new+things+with+codes+!" alt="Typing SVG" />
+ <a align = "center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Prahelika+Dutta.;I+am+a+Unity+developer.;Love+to+play+with+codes+!" alt="Typing SVG" />
  </a>
 </div>
 
